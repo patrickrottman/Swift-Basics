@@ -101,7 +101,7 @@ case 2:
 case 3:
     print("You chose 3.")
 default:
-    print("You made an unkown choice")
+    print("You made an unknown choice")
 }
 
 //Using the Character constant integral, display the character in integral followed by the string “ is an integral.”
